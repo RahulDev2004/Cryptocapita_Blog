@@ -11,6 +11,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ["InterVariable", "Inter", ...defaultTheme.fontFamily.sans],
+        zendots: ["Zen Dots", "cursive"],
       },
       aspectRatio: {
         "4/3": "4 / 3",

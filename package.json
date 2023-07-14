@@ -17,6 +17,7 @@
     "@astrojs/sitemap": "^1.0.1",
     "@astrojs/tailwind": "^3.0.1",
     "@fontsource/inter": "^4.5.14",
+    "@fontsource/zen-dots": "^5.0.5",
     "@types/alpinejs": "^3.7.1",
     "astro": "^2.0.14",
     "astro-color-scheme": "^1.0.1",
