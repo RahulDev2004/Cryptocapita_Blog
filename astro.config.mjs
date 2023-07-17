@@ -1,5 +1,6 @@
 // https://astro.build/config
 import { defineConfig } from "astro/config";
+import partytown from "@astrojs/partytown";
 import tailwind from "@astrojs/tailwind";
 import image from "@astrojs/image";
 import mdx from "@astrojs/mdx";
@@ -22,5 +23,10 @@ export default defineConfig({
     }),
     mdx(),
     sitemap(),
+    partytown({
+      config: {
+        forward: ["dataLayer.push"],
+      },
+    }),
   ],
 });
