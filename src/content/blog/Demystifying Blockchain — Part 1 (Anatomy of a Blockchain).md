@@ -5,7 +5,7 @@ publishDate: "2023-07-16T11:39:36.050Z"
 image: "https://miro.medium.com/v2/resize:fit:828/format:webp/0*gYultte6r6YdrM_t.png"
 category: "blockchain"
 author: "pranshu-jha"
-tags: [blockchain, architecture, interior]
+tags: [blockchain, web3, development]
 ---
 
 The rivalry between blockchains to demonstrate which one works best has recently been fierce, with each reporting outstanding Transactions Per Second (TPS) numbers. One of the well-known companies on this list is Aptos, who made a great deal out of promising 160,000 TPS. Although it still indicates the blockchain’s ability to process transactions efficiently, the blockchain only reached a peak of 2,107 TPS in November 2022, which is not bad but falls far short of their pre-launch expectations.
