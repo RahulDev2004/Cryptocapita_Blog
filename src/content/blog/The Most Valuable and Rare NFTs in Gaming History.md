@@ -2,7 +2,7 @@
 title: "The Most Valuable and Rare NFTs in Gaming History"
 excerpt: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 publishDate: "2023-07-17T11:39:36.050Z"
-image: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F10%2Fbored-ape-yacht-club-nft-3-4-million-record-sothebys-metaverse-tw.jpg?w=960&cbr=1&q=90&fit=max"
+image: "https://hypebeast.com/image/2021/10/bored-ape-yacht-club-nft-3-4-million-record-sothebys-metaverse-tw.jpg"
 category: "nfts"
 author: "pranshu-jha"
 tags: [blockchain, nfts, web3]
